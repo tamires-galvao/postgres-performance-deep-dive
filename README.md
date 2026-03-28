@@ -54,7 +54,10 @@ Durante o desenvolvimento, a interação com a IA foi refinada para extrair deta
 ### Prompts de Revisão
 * *"Analise este resultado de EXPLAIN ANALYZE e identifique por que o custo de I/O aleatório está penalizando a query."*
 * *"Quais os riscos de manter índices redundantes em tabelas com alta taxa de INSERT e UPDATE?"*
-* *"Descreva o checklist para diagnosticar e otimizar uma query lenta em produção."*
+* *["Descreva o checklist para diagnosticar e otimizar uma query lenta em produção."](https://github.com/tamires-galvao/postgres-performance-deep-dive/blob/main/respostas/checklist-diagnostico-queries.md)*
+
+## 📁 Materiais Criados pelo NotbookLM 
+- [PostgreSQL_Blazing_Fast.pdf](https://github.com/tamires-galvao/postgres-performance-deep-dive/blob/main/docs/PostgreSQL_Blazing_Fast.pdf)
 
 ---
 
